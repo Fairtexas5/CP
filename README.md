@@ -1,4 +1,4 @@
-# Competitive PRogramming
+# Competitive Programming
  DSA QUES
  Arrays
  Strings
